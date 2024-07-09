@@ -34,33 +34,10 @@
 
 <br/>  
 
-<style>
-.markdown-body img[align=left] {
-    padding-right: 0px !important;
-}
-</style>
 
-## Github Stats  
-<table width="100%" class="statsTable">
-  <tr width="100%" class="statsTable">
-    <td valign="top" width="48%">
-      <img src="https://github-readme-stats.vercel.app/api?username=surenachiron&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-    </td>
-    <td valign="top" width="48%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surenachiron&hide_border=true&layout=compact" align="left" style="width: 100%" />
-    </td>
-  </tr>
-</table>  
+## Github stats
+<div align="start">
+  <img src="https://github-readme-stats.vercel.app/api?username=surenachiron&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
