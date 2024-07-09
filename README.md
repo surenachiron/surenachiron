@@ -1,7 +1,10 @@
 ## Hey 👋, I'm mohammad  
   
 
-I'm a frontend developer who enjoys learning and creating creative projects. I'm a self-taught developer and am currently seeking a job to kickstart my professional career.  
+<p>I'm a frontend developer who enjoys learning and creating creative projects.</p>
+<p>I'm a self-taught developer and am currently seeking a job to kickstart my professional career.</p>  
+
+<br/>  
 
 <a href="https://github.com/surenachiron" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -31,10 +34,15 @@ I'm a frontend developer who enjoys learning and creating creative projects. I'm
 
 <br/>  
 
+<style>
+.markdown-body img[align=left] {
+    padding-right: 0px !important;
+}
+</style>
 
 ## Github Stats  
-<table width="100%">
-  <tr width="100%">
+<table width="100%" class="statsTable">
+  <tr width="100%" class="statsTable">
     <td valign="top" width="48%">
       <img src="https://github-readme-stats.vercel.app/api?username=surenachiron&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
     </td>
